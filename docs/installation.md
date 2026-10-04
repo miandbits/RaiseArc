@@ -9,7 +9,7 @@ Install Unity 6000.6.0f1 with Windows Build Support through Unity Hub. Create a 
 
 1. In Unity, open **Window → Package Management → Package Manager**.
 2. Select **+ → Install package from git URL**.
-3. Enter `https://github.com/mhwangbo/RaiseArc.git?path=/Packages/io.github.mhwangbo.raisearc#5e1cd6355a81dc679db41162bf5062cb66ad97af`. This exact product commit was installed and checked. Review changes before selecting a newer commit.
+3. Enter `https://github.com/miandbits/RaiseArc.git?path=/Packages/io.github.mhwangbo.raisearc#5e1cd6355a81dc679db41162bf5062cb66ad97af`. This exact product commit was installed and checked. Review changes before selecting a newer commit.
 4. Wait for package resolution. Confirm that **RaiseArc** appears and that the Console has no red compile errors.
 5. Open **Window → RaiseArc** to see authoring tools. MCP is optional and is not needed for this check.
 

@@ -1,9 +1,9 @@
 module.exports = {
   title: 'RaiseArc',
   tagline: 'Build raising games in Unity',
-  url: 'https://mhwangbo.github.io',
+  url: 'https://miandbits.github.io',
   baseUrl: '/RaiseArc/',
-  organizationName: 'mhwangbo',
+  organizationName: 'miandbits',
   projectName: 'RaiseArc',
   trailingSlash: false,
   onBrokenLinks: 'throw',
